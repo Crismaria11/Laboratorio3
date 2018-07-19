@@ -1,5 +1,5 @@
-package lista
+package Lista
 
-class Lista (
+class Lista(
         var nombre: String
 )
