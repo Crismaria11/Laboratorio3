@@ -1,5 +1,6 @@
 package Lista
 
 class Lista(
-        var nombre: String
+        var nombre: String,
+        val ID: Long
 )

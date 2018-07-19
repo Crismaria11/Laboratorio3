@@ -1,5 +1,6 @@
-package lista
+package listas
 
 class Lista (
-        var nombre: String
+        var nombre: String,
+        val code: String
 )
